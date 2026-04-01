@@ -1,4 +1,5 @@
 This is a simple snake game 
 technologies used c++ 
 here is a screenshot 
-<img width="424" height="357" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/f2049b1c-89f3-4cb9-b017-426fd9ab77a8" />
+<img width="397" height="496" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/791db96f-c538-4829-bc7d-0c307abe4420" />
+
